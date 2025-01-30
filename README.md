@@ -27,7 +27,7 @@ Below are the key findings and performance results of our model:
 - Achieved **95% accuracy** in breast cancer detection.
 - Applied **machine learning classifiers** such as **Random Forest, SVM, and Neural Networks**.
 - Used **feature engineering** and **data preprocessing** to improve results.![image](https://github.com/user-attachments/assets/c1475635-38f4-4a82-b61c-cb6c855a1bb3)
- ![image](https://github.com/user-attachments/assets/c45f934c-b3a1-4756-b302-b88790afdf2f)
+ 
 
 
 ## 🧪 Methodology
